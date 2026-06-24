@@ -1,4 +1,4 @@
-package Brick_Breaker;
+package brick_breaker;
 
 import java.awt.*;
 import java.awt.event.*;

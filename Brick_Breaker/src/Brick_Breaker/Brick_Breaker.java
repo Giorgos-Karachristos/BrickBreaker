@@ -1,4 +1,4 @@
-package Brick_Breaker;
+package brick_breaker;
         
 import javax.swing.JFrame;// to kaneis import gia na dimiourgisis adikimeno obj tipou JFrame
 
